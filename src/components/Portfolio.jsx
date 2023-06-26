@@ -21,8 +21,8 @@ const Portfolio = () => {
             id: 2,
             image: p2,
             title: "React Portfolio",
-            github: "",
-            demo: "",
+            github: "https://github.com/RoopaPamisetty/portfolio-roopa",
+            demo: "https://roopapamisetty.github.io/portfolio-roopa/",
         },
 
        /* {
