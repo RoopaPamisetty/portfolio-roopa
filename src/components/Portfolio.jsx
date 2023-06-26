@@ -4,10 +4,7 @@ import {FaGithub, FaExternalLinkSquareAlt }from 'react-icons/fa'
 
 import p1 from "../assets/weather_forecast.png";
 import p2 from "../assets/po.png";
-import p3 from "../assets/p3.jpg";
-import p4 from "../assets/p4.jpg";
-import p5 from "../assets/p5.jpg";
-import p6 from "../assets/p6.jpg";
+
 
 const Portfolio = () => {
 
