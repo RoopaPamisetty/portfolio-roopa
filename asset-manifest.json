@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-roopa/static/css/main.83020498.css",
+    "main.js": "/portfolio-roopa/static/js/main.9ec9cbb4.js",
+    "static/media/p3.jpg": "/portfolio-roopa/static/media/p3.93cbe0b2ddbce3a906ba.jpg",
+    "static/media/avatar.png": "/portfolio-roopa/static/media/avatar.9f8cff0ba35529ea8f39.png",
+    "static/media/p4.jpg": "/portfolio-roopa/static/media/p4.0459ebc2624f77cd9828.jpg",
+    "static/media/research.png": "/portfolio-roopa/static/media/research.0de9e88980fa716ebe82.png",
+    "static/media/mobile.png": "/portfolio-roopa/static/media/mobile.c666d7f1a111a1aa8be5.png",
+    "static/media/web.png": "/portfolio-roopa/static/media/web.4c6d19981760584007b7.png",
+    "static/media/p5.jpg": "/portfolio-roopa/static/media/p5.3c8a0cbfedee6e3026ba.jpg",
+    "static/media/weather_forecast.png": "/portfolio-roopa/static/media/weather_forecast.fe01334bca2a1298522d.png",
+    "static/media/p6.jpg": "/portfolio-roopa/static/media/p6.9ef4e185238545d93776.jpg",
+    "static/media/Se.png": "/portfolio-roopa/static/media/Se.07640ea34d0828fcd54d.png",
+    "static/media/po.png": "/portfolio-roopa/static/media/po.085fa0b0135a6d804bfe.png",
+    "static/media/avatarRoop.png": "/portfolio-roopa/static/media/avatarRoop.0c454d1a16066653df00.png",
+    "index.html": "/portfolio-roopa/index.html",
+    "main.83020498.css.map": "/portfolio-roopa/static/css/main.83020498.css.map",
+    "main.9ec9cbb4.js.map": "/portfolio-roopa/static/js/main.9ec9cbb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83020498.css",
+    "static/js/main.9ec9cbb4.js"
+  ]
+}
