@@ -1,6 +1,6 @@
 import React from 'react'
 import Section from './common/Section'
-import avatar from '../assets/avatar.png'
+import avatar from '../assets/Infosyslogo.jpg'
 
 const Testimonials = () => {
     
@@ -8,7 +8,7 @@ const Testimonials = () => {
         {
             id: 1,
             image: avatar,
-            name: "Infosys",
+            name: "Insta award",
             comment: "Your dedicated efforts in automating the scripts using UFT. Your commitment and hard work are truly appreciated."
         },
         /*{

@@ -7,9 +7,9 @@ const Contact = () => {
 
     const SOCIAL = [
         {
-            id: 1,
-            link: "https://twitter.com/Pamisetty_Roopa",
-            icon: <FaTwitter />,
+            id: 3,
+            link: "https://www.linkedin.com/in/roopa-pamisetty",
+            icon: <FaLinkedin />,
         },
         {
             id: 2,
@@ -17,10 +17,11 @@ const Contact = () => {
             icon: <FaGithub />,
         },
         {
-            id: 3,
-            link: "https://www.linkedin.com/in/roopa-pamisetty",
-            icon: <FaLinkedin />,
+            id: 1,
+            link: "https://twitter.com/Pamisetty_Roopa",
+            icon: <FaTwitter />,
         },
+      
 
 
     ]
@@ -35,7 +36,7 @@ const Contact = () => {
         <div><img src={contact} alt="Conatct info" className='w-32 h-32'/></div>
         <div>
             <p className='max-w-xs md:max-w-lg font-light'>
-            Discover Your Perfect Fit: Reach Out to Me Through Your Preferred Channel for Exciting Opportunities Aligned with My Portfolio!😊
+            Discover Your Perfect Fit: Reach out to me through your preferred channel for exciting opportunities aligned with my portfolio!😊
             </p>
         </div>
         <div className='flex w-full items-center justify-evenly text-3xl'>
