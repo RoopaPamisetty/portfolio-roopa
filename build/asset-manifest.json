@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-roopa/static/css/main.83020498.css",
-    "main.js": "/portfolio-roopa/static/js/main.9c550fb6.js",
+    "main.js": "/portfolio-roopa/static/js/main.fc85db6a.js",
     "static/media/research.png": "/portfolio-roopa/static/media/research.0de9e88980fa716ebe82.png",
     "static/media/mobile.png": "/portfolio-roopa/static/media/mobile.c666d7f1a111a1aa8be5.png",
     "static/media/web.png": "/portfolio-roopa/static/media/web.4c6d19981760584007b7.png",
@@ -11,10 +11,10 @@
     "static/media/[removal.ai]_tmp-649ae3821ee62.png": "/portfolio-roopa/static/media/[removal.ai]_tmp-649ae3821ee62.cfa78f1db53bbd8e1e68.png",
     "index.html": "/portfolio-roopa/index.html",
     "main.83020498.css.map": "/portfolio-roopa/static/css/main.83020498.css.map",
-    "main.9c550fb6.js.map": "/portfolio-roopa/static/js/main.9c550fb6.js.map"
+    "main.fc85db6a.js.map": "/portfolio-roopa/static/js/main.fc85db6a.js.map"
   },
   "entrypoints": [
     "static/css/main.83020498.css",
-    "static/js/main.9c550fb6.js"
+    "static/js/main.fc85db6a.js"
   ]
 }
