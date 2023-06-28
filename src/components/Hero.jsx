@@ -63,8 +63,6 @@ window.addEventListener("scroll", function(){
         <a href="https://drive.google.com/uc?export=download&id=1FIw7Q0_ZFpNgRyJWo5mIx-eDCtda_MhY"
         download={true}
         className='flex items-center justify-center mt-10 bg-gradient-to-r from-blue-500 to-gray-700 text-white py-2 rounded-lg'
-        target="_blank"
-        rel="noopener noreferrer"
         >
             Resume
 
