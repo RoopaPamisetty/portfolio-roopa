@@ -60,7 +60,7 @@ window.addEventListener("scroll", function(){
     <div>
         <img src={avatar} alt="avatar" 
         className='w-60 h-60 md:w-72 md:h-72 object-cover object-top bg-gradient-to-b from-blue-500 rounded-xl'/>
-        <a href="https://drive.google.com/uc?export=download&id=1FIw7Q0_ZFpNgRyJWo5mIx-eDCtda_MhY"
+        <a href="https://drive.google.com/uc?export=download&id=1cU5CjfOgW65dPB3ZafxqgjQl-c76LLsm"
         download={true}
         className='flex items-center justify-center mt-10 bg-gradient-to-r from-blue-500 to-gray-700 text-white py-2 rounded-lg'
         >

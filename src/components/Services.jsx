@@ -30,6 +30,7 @@ const Services = () => {
         image: research,
         title: "Research and Development",
     },
+    
   ];
 
 
